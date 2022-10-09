@@ -1,6 +1,12 @@
 
 # Predicted Car Price Analysis
 
+## How to check the analysis?
+
+To check the analysis done in Microsoft Power BI, please download Microsoft Power BI, if not already. Then, open the .pbix file.
+
+##Key Findings and Conclusions
+
 * The Power BI Dashboards contain a summary of various Machine Learning models trained on datasets of two car models: Fiesta and Focus
 *  The results are visualized with various plots to help us interpret how each machine learning model performed
 *  The dataset had features like price, engineSize, tax, mileage, MPG, and fuelType.  The price is taken as our dependent variable whereas, engineSize, tax, mileage, MPG are considered independent variables
