@@ -5,7 +5,7 @@
 
 To check the analysis done in Microsoft Power BI, please download Microsoft Power BI, if not already. Then, open the .pbix file.
 
-##Key Findings and Conclusions
+## Key Findings and Conclusions
 
 * The Power BI Dashboards contain a summary of various Machine Learning models trained on datasets of two car models: Fiesta and Focus
 *  The results are visualized with various plots to help us interpret how each machine learning model performed
